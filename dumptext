@@ -1,0 +1,26 @@
+
+	 
+ 
+ $sql =$init->prepare("SELECT end_time FROM doctor_timings  where doctorid='$_SESSION[id]'AND end_time < '$current_time'");
+ $sql->execute(); 
+ $test = $sql->fetchAll();
+ 
+ foreach($test as $tes){
+    
+	 
+    $sql2 =$init->prepare("SELECT * FROM appointment  where doctorid='$_SESSION[id]'");
+    $sql2->execute(); 
+    $test2 = $sql2->fetchAll();
+    foreach($test2 as $tes2){
+	$endtime = substr($test2['appointment_date'],strpos($tes2['appointment_date'],"- ")+2,8);
+	 
+	 if($endtime < date('H:i:s') && $test2['booking_date'] > date('Y-m-d H:i:s')){
+	   
+	 }
+	 
+	}
+    
+   
+    
+ }
+var_dump($test);

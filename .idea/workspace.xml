@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc857100-a0a4-4f8a-9e35-fd700173e3b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinic_db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/patient.php" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/patient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/view-patient.php" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/view-patient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nurse/patient.php" beforeDir="false" afterPath="$PROJECT_DIR$/nurse/patient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nurse/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/nurse/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nurse/view-patient.php" beforeDir="false" afterPath="$PROJECT_DIR$/nurse/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/alerts.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/alerts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/save_user_client.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/save_user_client.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient.php" beforeDir="false" afterPath="$PROJECT_DIR$/patient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/patient/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/patient/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient/patient.php" beforeDir="false" afterPath="$PROJECT_DIR$/patient/patient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/patient/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient/view-patient.php" beforeDir="false" afterPath="$PROJECT_DIR$/patient/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pharmacy/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pharmacy/patient.php" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/patient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pharmacy/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pharmacy/sql.php" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/sql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pharmacy/view-patient.php" beforeDir="false" afterPath="$PROJECT_DIR$/pharmacy/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view-patient.php" beforeDir="false" afterPath="$PROJECT_DIR$/view-patient.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/PHPMailer/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="28kvucsYzGmgudUWLH1RyK0JhSg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pharmacy" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\clinic-management-system\pharmacy" />
+      <recent name="C:\xampp\htdocs\clinic-management-system\doctor" />
+      <recent name="C:\xampp\htdocs\clinic-management-system\patient" />
+      <recent name="C:\xampp\htdocs\clinic-management-system" />
+      <recent name="C:\xampp\htdocs\clinic-management-system\pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc857100-a0a4-4f8a-9e35-fd700173e3b3" name="Default Changelist" comment="" />
+      <created>1651773622610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651773622610</updated>
+      <workItem from="1651773627374" duration="1512000" />
+      <workItem from="1651996278276" duration="1581000" />
+      <workItem from="1652153139474" duration="98000" />
+      <workItem from="1652764032570" duration="14614000" />
+      <workItem from="1652933071742" duration="12753000" />
+      <workItem from="1653744379461" duration="2279000" />
+      <workItem from="1653887494237" duration="4575000" />
+      <workItem from="1654024122031" duration="37000" />
+      <workItem from="1654328419025" duration="27204000" />
+      <workItem from="1654757646041" duration="32000" />
+      <workItem from="1654807564910" duration="34061000" />
+    </task>
+    <task id="LOCAL-00001" summary="Second push of may">
+      <created>1652946142639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652946142639</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second push of may">
+      <created>1653744848001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653744848001</updated>
+    </task>
+    <task id="LOCAL-00003" summary="June push">
+      <created>1654532524075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654532524098</updated>
+    </task>
+    <task id="LOCAL-00004" summary="June push">
+      <created>1654532737588</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654532737588</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second push of may" />
+    <MESSAGE value="June push" />
+    <option name="LAST_COMMIT_MESSAGE" value="June push" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="144" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1652766942854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="144" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1366.728@0.0.1366.728" timestamp="1652766942854" />
+    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1654532736192">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1654532736192" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1651775914363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1651775914363" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1652901030844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1652901030844" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1652767174609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1652767174609" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1654532746875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1654532746875" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1654467137137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1654467137137" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1655066794275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1655066794275" />
+    <state x="390" y="68" width="585" height="592" key="find.popup" timestamp="1655063619688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="68" width="585" height="592" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1655063619688" />
+  </component>
+</project>
